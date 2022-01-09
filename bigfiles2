@@ -1,0 +1,1 @@
+ls -laSh $1 | head -n 7

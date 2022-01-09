@@ -1,0 +1,1 @@
+ls -laSh /usr/bin | head -n 7
